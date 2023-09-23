@@ -1,0 +1,19 @@
+{
+  "name": "work-1",
+  "version": "1.0.0",
+  "description": "Form based Work",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Sai-Narendra-Tanniru/work-1/"
+  },
+  "author": "SAI",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sai-Narendra-Tanniru/work-1/issues"
+  },
+  "homepage": "https://github.com/Sai-Narendra-Tanniru/work-1/#readme"
+}
